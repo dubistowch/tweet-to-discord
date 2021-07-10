@@ -85,11 +85,11 @@ services:
 ### Customize
 
 #### Fonts
-Just put files in customize/fonts.
+Just put files in `customize/fonts`.
 
 
 #### Style Script Example
-Create file at `customize/style.js` and set `STYLE_JS` to to file
+Create file at `customize/style.js` and set `STYLE_JS` to the script
 
 > Notes: fonts are not included in this repo, install it yourself 
 
