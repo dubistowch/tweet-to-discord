@@ -1,0 +1,5 @@
+customize/*
+archive/**
+node_modules/**
+docker-compose.yaml
+Makefile
