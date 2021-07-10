@@ -31,7 +31,7 @@ const screenshot = async (props) => {
       style.innerHTML = await window.styleScript()
       document.getElementsByTagName('head')[0].appendChild(style)
 
-      const height = document.querySelector('article').clientHeight
+      const height = document.querySelector('article').offsetHeight
       return { width: 550, height: parseInt(height), deviceScaleFactor: 1.25 }
     }, { })
 

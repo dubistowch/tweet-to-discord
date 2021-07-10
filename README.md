@@ -131,3 +131,9 @@ module.exports = (document) => {
 }
 
 ```
+
+## Setup Automation
+
+### Pipedream (recommend)
+
+https://pipedream.com/@dubistowch/tweet-to-discord-p_6lCQVNP/edit
