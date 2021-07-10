@@ -1,5 +1,5 @@
 # Tweet Image Discord
-Convert tweets to image and sent to Discord channel.
+Convert tweet to image and sent to Discord channel.
 
 ## APIs
 ### GET /image
@@ -24,7 +24,7 @@ View image directly.
 Post tweet image to Discord via Webhook.
 
 #### Request Query String
-|require|field|description|example|
+|Require|Field|Description|Example|
 |--|--|--|--|
 |v|tweetUrl|Url of tweet|`https://twitter.com/DubiStowCh/status/1413787021563232257?s=20`|
 
@@ -67,7 +67,7 @@ services:
 
 ### Environment Variables
 
-|require|field|description|default|
+|Require|Field|Description|Default|
 |--|--|--|--|
 |v|HOST|Listening host|`0.0.0.0`|
 |v|PORT|Listening port|`3000`|
