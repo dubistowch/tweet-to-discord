@@ -137,3 +137,12 @@ module.exports = (document) => {
 ### Pipedream (recommend)
 
 https://pipedream.com/@dubistowch/tweet-to-discord-p_6lCQVNP/edit
+
+## Copyright
+
+MIT License
+
+Copyright (c) 2021 Ozgur Ozer
+Copyright (c) 2021 Dubi Stow
+
+Copyright for portions of project tweet-image-discord are held by Ozgur Ozer, 2021 as part of project [tweet-image](https://github.com/ozgrozer/tweet-image). All other copyright for project tweet-image-discord are held by Dubi Stow, 2021.
